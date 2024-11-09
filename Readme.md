@@ -10,7 +10,7 @@ As from the November 2024, the Download Size for this Repo is : **22.8 MB** ( Pl
 **+** __**Files and Folder Structure.**__
 
 **Images**
-All images in this repo are found and mined and are located are organized based on category. e.g. Buttons and Icons, Effects and More.
+All images in this repo are found and mined and are located are organized based on category. e.g. Buttons and Icons, Effects, Textures and More.
 
 
 ## __**Social Media**__
